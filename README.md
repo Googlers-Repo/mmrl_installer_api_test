@@ -1,2 +1,2 @@
-# mmrl_installer_api_test
+# MMRL Installer API Test
 Testing the MMRL Installer API
